@@ -1,5 +1,3 @@
-HelloWorld.java
-
 public class HelloWorld {
 
     // This is the main method. It is the entry point of any Java application.
